@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 margin: 0;
 padding: 0;
@@ -12,3 +13,18 @@ top-margin: 30px;
 bottom-margin: 30px;
 horizontal-align: center;
 }
+=======
+body {
+  color: #484848;
+  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+strong {
+  font-weight: bold;
+}
+>>>>>>> deb07ec15fa59c5cd9a82ddd507f19d1e0d4e09c
