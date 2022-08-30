@@ -5,3 +5,10 @@ font-color: #484848;
 font-size: 14px;
 font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+.container {
+width: 1000px;
+top-margin: 30px;
+bottom-margin: 30px;
+horizontal-align: center;
+}
